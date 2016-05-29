@@ -10,3 +10,9 @@ h1 { text-align: center;
 .Title {
   background-color: #FF6666;
 }
+
+.nav {
+   font-family: 'Poppins', sans-serif;
+  color: white;
+  background-color: #FF6666;
+}
